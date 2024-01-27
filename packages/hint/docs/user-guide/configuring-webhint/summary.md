@@ -36,7 +36,8 @@ npm create hintrc
 ```
 
 If `webhint` does not find a valid configuration \(`.hintrc` file or
-`hintConfig` property in your `package.json`\), it uses a default one and warns
+`hintConfig`
+ property in your `package.json`\), it uses a default one and warns
 you about it.
 
 ```shell
